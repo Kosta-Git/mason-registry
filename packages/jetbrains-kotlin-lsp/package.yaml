@@ -1,5 +1,5 @@
 ---
-name: kotlin-lsp-jb
+name: kotlin-lsp
 description: Kotlin Language Server and plugin for Visual Studio Code
 homepage: https://github.com/Kotlin/kotlin-lsp
 licenses:
