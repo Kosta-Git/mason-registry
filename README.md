@@ -1,2 +1,3 @@
-Temporary registry until https://github.com/mason-org/mason-registry/pull/10300 gets merged.
 # mason-registry
+
+- added kotlin-language server from jetbrains while waiting for the official mason registry to merge it
